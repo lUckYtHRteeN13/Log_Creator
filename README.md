@@ -15,11 +15,13 @@
 <!-- Task List "* []"-->
 <!-- Heading "#" -->
 # __Log_Creator__
+----
 Under construction! Not ready for use yet! Currently experimenting and planning!
 
 Developed by Nethan Quinn Jael (c) 2022
 
 # __How To Use__
+----
 ``` python
 from log_creator import Log
 
