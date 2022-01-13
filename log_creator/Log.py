@@ -91,11 +91,3 @@ def unexisting_dir_creator(dir: str) -> str:
         print("This path is already created. (%s)" % dir)
     
     return dir
-
-
-def main():
-    x = Log()
-    
-
-
-if __name__ == "__main__": main()
